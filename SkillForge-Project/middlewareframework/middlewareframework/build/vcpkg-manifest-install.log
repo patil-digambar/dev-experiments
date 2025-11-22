@@ -1,0 +1,47 @@
+warning: feature vcpkg-cmake was passed, but that is not a feature supported by  supports.
+warning: feature vcpkg-cmake-config was passed, but that is not a feature supported by  supports.
+Detecting compiler hash for triplet x64-linux...
+Compiler found: /usr/bin/c++
+The following packages will be built and installed:
+    fmt:x64-linux@12.1.0
+    openssl:x64-linux@3.6.0#3
+  * vcpkg-cmake:x64-linux@2024-04-23
+  * vcpkg-cmake-config:x64-linux@2024-05-23
+  * vcpkg-cmake-get-vars:x64-linux@2025-05-29
+Additional packages (*) will be modified to complete this operation.
+Restored 5 package(s) from /home/digambar/.cache/vcpkg/archives in 631 ms. Use --debug to see more details.
+Installing 1/5 vcpkg-cmake-config:x64-linux@2024-05-23...
+Elapsed time to handle vcpkg-cmake-config:x64-linux: 2.82 ms
+vcpkg-cmake-config:x64-linux package ABI: 7deca9f6153c0bfec5e3aa43ba7e0a7ea7c6ac34cf1d98c363956840db85bbb3
+Installing 2/5 vcpkg-cmake:x64-linux@2024-04-23...
+Elapsed time to handle vcpkg-cmake:x64-linux: 2.13 ms
+vcpkg-cmake:x64-linux package ABI: 2293983a1b42be98d577e3be6b70b3e52ecfada75de79c770ec23c19c1fe5dc7
+Installing 3/5 fmt:x64-linux@12.1.0...
+Elapsed time to handle fmt:x64-linux: 6.09 ms
+fmt:x64-linux package ABI: c0831d3389f7f9896463b177a5a6facb0a32958beb61f5aa0bdfeb0db42e3456
+Installing 4/5 vcpkg-cmake-get-vars:x64-linux@2025-05-29...
+Elapsed time to handle vcpkg-cmake-get-vars:x64-linux: 1.47 ms
+vcpkg-cmake-get-vars:x64-linux package ABI: cccbf65cd613d22e718575767f312282229ad663ce564dc69922ca41919dc6ce
+Installing 5/5 openssl:x64-linux@3.6.0#3...
+Elapsed time to handle openssl:x64-linux: 8.84 ms
+openssl:x64-linux package ABI: 28973bd981340a898374799cd5ec67daa437fb0a73bc683f45a35df8f39765a2
+Installed contents are licensed to you by owners. Microsoft is not responsible for, nor does it grant any licenses to, third-party packages.
+Packages installed in this vcpkg installation declare the following licenses:
+Apache-2.0
+MIT
+The package fmt provides CMake targets:
+
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt)
+
+    # Or use the header-only version
+    find_package(fmt CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE fmt::fmt-header-only)
+
+openssl is compatible with built-in CMake targets:
+
+  find_package(OpenSSL REQUIRED)
+  target_link_libraries(main PRIVATE OpenSSL::SSL)
+  target_link_libraries(main PRIVATE OpenSSL::Crypto)
+
+All requested installations completed successfully in: 22.8 ms

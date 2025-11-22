@@ -50,6 +50,11 @@ void printall(const T& first,const Args& ...args){
         printall(args...);
     }
 }
+
+template<typename ...Arges>
+void printall(const Arges&... args){
+    (std::cout<< ... << args) << "\n"; // Fold expression (C++17)
+}
 */
 template<typename... Args>
 void printall(const Args&... args){

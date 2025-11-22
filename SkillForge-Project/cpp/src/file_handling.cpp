@@ -14,7 +14,7 @@ int main()
 
     std::ifstream infile("example.txt",std::ios::in);
     infile.seekg(0, std::ios::end); // move to end
-    std::streampos size=infile.tellg();
+    std::streampos size=infile.tellg();// get position which is size
     std::cout<<size <<std::endl; // get file size
     infile.seekg(0); // back to beginning
     if(infile.is_open())

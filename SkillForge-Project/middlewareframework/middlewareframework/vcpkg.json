@@ -1,0 +1,11 @@
+{
+    "dependencies": [
+      "fmt",
+      "openssl"
+    ],
+    "builtin-baseline": "365f6444ab40ee87c73c947b475b3a267b3cb77c",
+    "default-features": [
+      "vcpkg-cmake",
+      "vcpkg-cmake-config"
+    ]
+  }

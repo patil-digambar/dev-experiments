@@ -1,0 +1,92 @@
+[
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/lin/LinBusSim.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/lin/LinBusSim.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/lin/LinBusSim.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/lin/LinBusSim.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/pluginManager/PluginManager.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/pluginManager/PluginManager.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/pluginManager/PluginManager.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/pluginManager/PluginManager.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/sensors/LinGatewaySensor.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/sensors/LinGatewaySensor.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/sensors/LinGatewaySensor.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/sensors/LinGatewaySensor.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/lin/LinNormalizer.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/lin/LinNormalizer.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/lin/LinNormalizer.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/lin/LinNormalizer.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/core/messagebus.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/core/messagebus.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/core/messagebus.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/core/messagebus.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++ -Dmiddlewarecore_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/middlewarecore.dir/src/core/Logger.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/core/Logger.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/core/Logger.cpp",
+  "output": "CMakeFiles/middlewarecore.dir/src/core/Logger.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIE -o CMakeFiles/main.dir/src/main.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/main.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/src/main.cpp",
+  "output": "CMakeFiles/main.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/plugins/LinGatewayPlugin",
+  "command": "/usr/bin/c++ -DLinGatewayPlugin_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/LinGatewayPlugin.dir/LinGatewayPlugin.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/LinGatewayPlugin/LinGatewayPlugin.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/LinGatewayPlugin/LinGatewayPlugin.cpp",
+  "output": "plugins/LinGatewayPlugin/CMakeFiles/LinGatewayPlugin.dir/LinGatewayPlugin.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/plugins/LoggingPlugin",
+  "command": "/usr/bin/c++ -DLoggingPlugin_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/LoggingPlugin -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/LoggingPlugin.dir/LoggingPlugin.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/LoggingPlugin/LoggingPlugin.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/LoggingPlugin/LoggingPlugin.cpp",
+  "output": "plugins/LoggingPlugin/CMakeFiles/LoggingPlugin.dir/LoggingPlugin.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/plugins/MqttAdapterPlugin",
+  "command": "/usr/bin/c++ -DMqttAdapterPlugin_EXPORTS -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/MqttAdapterPlugin -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIC -o CMakeFiles/MqttAdapterPlugin.dir/MQTTAdapter.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/MqttAdapterPlugin/MQTTAdapter.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/plugins/MqttAdapterPlugin/MQTTAdapter.cpp",
+  "output": "plugins/MqttAdapterPlugin/CMakeFiles/MqttAdapterPlugin.dir/MQTTAdapter.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/tests",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/vcpkg_installed/x64-linux/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=gnu++17 -fPIE -o CMakeFiles/AllTests.dir/core_tests/messagebus_test.cpp.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/tests/core_tests/messagebus_test.cpp",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/tests/core_tests/messagebus_test.cpp",
+  "output": "tests/CMakeFiles/AllTests.dir/core_tests/messagebus_test.cpp.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=c++17 -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-build/googlemock",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=c++17 -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/include -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=c++17 -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-build/googletest",
+  "command": "/usr/bin/c++  -I/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/include -isystem /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG -std=c++17 -fPIC -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

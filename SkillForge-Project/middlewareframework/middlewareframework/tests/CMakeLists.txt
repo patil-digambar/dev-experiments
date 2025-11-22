@@ -29,8 +29,8 @@ target_link_libraries(AllTests
         middlewarecore
         gtest_main
         pthread
+        fmt::fmt
 )
-
 target_include_directories(AllTests PRIVATE
     ${CMAKE_SOURCE_DIR}/include
 )

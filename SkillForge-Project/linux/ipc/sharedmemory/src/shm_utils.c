@@ -7,7 +7,7 @@ void create_shared_memory() {
         perror("shm_open");
         exit(EXIT_FAILURE);
     }
-    //fruncate to the specified size meaning set the size of the shared memory object
+    //ftruncate to the specified size meaning set the size of the shared memory object
     if (ftruncate(shm_fd, MAX_SIZE) == -1) {
         perror("ftruncate");
         exit(EXIT_FAILURE);

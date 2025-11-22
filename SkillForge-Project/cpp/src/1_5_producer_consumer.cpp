@@ -14,7 +14,10 @@ std::mutex mu;
 std::condition_variable cv;
 char* buffer;
 
-
+// Non-reentrant function that uses a static buffer to demonstrate issues with shared state
+//  In real-world scenarios, avoid using static buffers in such functions.
+// Here, we simulate a non-reentrant function by using a static buffer.
+//what is non reentrant function? A non-reentrant function is one that cannot be safely called again before its previous executions are complete, often due to reliance on shared or static data.
 char* nonreentrant_function(const char* buf){
    // std::cout<<"Reentrant function using buffer: "<<buf<<std::endl;
     //modify buffer
