@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG  -pg -shared -Wl,-soname,libLinGatewayPlugin.so -o libLinGatewayPlugin.so CMakeFiles/LinGatewayPlugin.dir/LinGatewayPlugin.cpp.o  -Wl,-rpath,/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build ../../libmiddlewarecore.so -lpthread ../../vcpkg_installed/x64-linux/lib/libfmt.a 

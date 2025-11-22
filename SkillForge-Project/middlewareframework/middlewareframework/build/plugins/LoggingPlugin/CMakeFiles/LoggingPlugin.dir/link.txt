@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG  -pg -shared -Wl,-soname,libLoggingPlugin.so -o libLoggingPlugin.so CMakeFiles/LoggingPlugin.dir/LoggingPlugin.cpp.o  -Wl,-rpath,/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build ../../libmiddlewarecore.so ../../vcpkg_installed/x64-linux/lib/libfmt.a 

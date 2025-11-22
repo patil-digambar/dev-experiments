@@ -1,5 +1,0 @@
-if(EXISTS "/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/tests/AllTests[1]_tests.cmake")
-  include("/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build/tests/AllTests[1]_tests.cmake")
-else()
-  add_test(AllTests_NOT_BUILT AllTests_NOT_BUILT)
-endif()

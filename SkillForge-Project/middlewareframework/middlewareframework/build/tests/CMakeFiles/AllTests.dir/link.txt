@@ -1,1 +1,0 @@
-/usr/bin/c++  -pg -Wall -Wextra -Wpedantic -O3 -DNDEBUG  -pg CMakeFiles/AllTests.dir/core_tests/messagebus_test.cpp.o -o AllTests  -Wl,-rpath,/home/digambar/dev-experiments/SkillForge-Project/middlewareframework/middlewareframework/build ../libmiddlewarecore.so ../lib/libgtest_main.a -lpthread ../vcpkg_installed/x64-linux/lib/libfmt.a ../lib/libgtest.a 

@@ -1,1 +1,0 @@
-/usr/bin/c++ "CMakeFiles/libaray-use-demo.dir/src/main.cpp.o" -o libaray-use-demo  -Wl,-rpath,"\$ORIGIN/mylib_shared" /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 libmylib_static.a libmylib_shared.so 

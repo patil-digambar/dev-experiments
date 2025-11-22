@@ -1,5 +1,0 @@
-/home/digambar/dev-experiments/libaray-use-demo/build/CMakeFiles/mylib_static.dir
-/home/digambar/dev-experiments/libaray-use-demo/build/CMakeFiles/mylib_shared.dir
-/home/digambar/dev-experiments/libaray-use-demo/build/CMakeFiles/libaray-use-demo.dir
-/home/digambar/dev-experiments/libaray-use-demo/build/CMakeFiles/edit_cache.dir
-/home/digambar/dev-experiments/libaray-use-demo/build/CMakeFiles/rebuild_cache.dir
